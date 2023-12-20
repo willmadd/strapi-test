@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "another_yeahhhs",
+  "info": {
+    "singularName": "another-yeahhh",
+    "pluralName": "another-yeahhhs",
+    "displayName": "another-yeahhh"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    }
+  }
+}

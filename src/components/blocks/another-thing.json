@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_blocks_another_things",
+  "info": {
+    "displayName": "anotherThing",
+    "icon": "apps"
+  },
+  "options": {},
+  "attributes": {
+    "heading": {
+      "type": "string"
+    }
+  }
+}
