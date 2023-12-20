@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "text_things",
+  "info": {
+    "singularName": "text-thing",
+    "pluralName": "text-things",
+    "displayName": "text-thing"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "testTextField": {
+      "type": "string"
+    }
+  }
+}
